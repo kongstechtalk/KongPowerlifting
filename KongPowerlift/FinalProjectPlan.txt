@@ -1,0 +1,35 @@
+Kong Lor
+June 8th, 2017
+Final Project Plan (draft)
+
+*******************************************************************************
+
+
+This website will be called Kong Powerlifting. It is an e-commerce site that will focus on selling Powerlifting equipment for Powerlifters or anyone who might be interested. Powerlifting is a weight lifting completion sport in which competitors perform the squat, the deadlift and the bench press and are scored for points. It is an exciting sport that tests their physical and physiological strength through training and competitions. 
+
+My website will be geared to offer powerlifting equipment and related accessories to those who are powerlifters and anyone who may benefit from the equipment. (Strength athletes, Fitness enthusiast, etc.)
+
+
+-From my hand draft design, I will place my logo on the top left corner along with a background img of something. Also with this header, there will be 5 main tabs to the right which will read; home, myaccount, contact, cart and search. Each of these tabs/boxes will link to another web page that will contain more information. Also I want this heading to always be static. SO even if the user decides scroll down, they will always see my logo and the 5 main tabs.
+
+
+- Middle left of the page: I will place a shop dropdown menu with 6 categories. Apparel, belts, singlets, sleeves, wraps, accessories. Within each categories there will be additional items. For example, if user hovers over belts, there will be a extended menu of what kind of belts. ( lever belts, single prong, double prong) If user clicks on it, it will bring them to the specific page containing the item. 
+
+
+- Middle (middle) of page: This is where I will place my new items. I want the new items to be a sliding image that will keep on sliding automatically every 2-3 seconds or on the user input. There will be 5 new items placed in. If user clicks on the picture it will link them to another page to purchase. 
+
+
+-Middle right: I’m not quite sure yet what I want to place in this area. I want this area to be a place where people can potentially talk about their training, performance, post videos and maybe even trade or buy old equipment. 
+
+
+Bottom of page: Towards the bottom of the page as the user scrolls down, they will also see all the shop categories and also pictures of the items being sold. 
+
+***
+other powerlifting websites that I looked at:
+
+http://www.andersonpowerlifting.com/
+
+https://www.howmuchyabench.net/
+
+https://www.inzernet.com/
+
